@@ -1,0 +1,36 @@
+BTC up/down signal - track record for 2026-08-27 (UTC)
+
+Today: 206/341 correct (60%) across 11 strategy variants.
+
+Running totals since 2026-08-26:
+
+  variant               signals  correct    rate
+  ----------------------------------------------
+  K11                        27       24   88.9%
+  K10                        20       16   80.0%
+  K6                         10        7   70.0%
+  K2                        108       67   62.0%
+  K9                         94       55   58.5%
+  K3                         24       14   58.3%
+  K1                         31       18   58.1%
+  K4                        118       66   55.9%
+  K8                         11        6   54.5%
+  K7                         48       25   52.1%
+  K5                         30       15   50.0%
+
+A word on reading that table: the top rows are not the best rows.
+These are binary contracts, so what you pay scales with how likely
+the outcome already looks. A variant winning 82% of the time is
+buying at around 85c and losing money; one winning 56% and buying
+at 53c is making it. Win rate on its own tells you nothing here --
+it is the gap between the win rate and the price that pays, and
+the price is not in this file.
+
+Every signal is in the CSV - the losing ones too, and the ones no
+sane person would have paid the asking price for. Each row carries
+the window's open and close price, so you can check any line of it
+against Binance yourself rather than taking my word for it.
+
+  record.csv
+
+Not selling anything. Publishing daily while the sample builds.
