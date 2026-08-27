@@ -1,40 +1,44 @@
 BTC up/down -- day 2 of the public record (2026-08-27 UTC)
 
-555 signals published so far, every one of them written
+Anyone can show you a good week. The point of this file is that it
+also shows the bad ones, on the day they happened.
+
+569 signals published so far, every one of them written
 down before its window closed. Eleven variants, K1 to K11, each
 scoring every window on its own.
 
-Today: 218 of 361 called correctly (60%).
+Today: 239 of 389 called correctly (61%).
 
 Since 2026-08-26:
 
           signals  correct    rate
   --------------------------------
-  K11          31       28   90.3%
-  K10          24       19   79.2%
+  K11          32       29   90.6%
+  K10          26       20   76.9%
   K6           10        7   70.0%
-  K2          109       67   61.5%
-  K9           97       57   58.8%
-  K3           24       14   58.3%
-  K1           31       18   58.1%
-  K4          122       68   55.7%
-  K7           49       25   51.0%
-  K8           12        6   50.0%
-  K5           32       16   50.0%
+  K2          112       70   62.5%
+  K3           25       15   60.0%
+  K1           32       19   59.4%
+  K9          101       59   58.4%
+  K8           16        9   56.2%
+  K4          127       71   55.9%
+  K5           37       20   54.0%
+  K7           51       27   52.9%
 
 Read that table carefully, because the top rows are not the best
-rows. These are binary contracts: the price moves with the odds,
-so a variant calling 88% of windows right is buying somewhere near
-85c and handing the difference back. One calling 56% right at 53c
-is ahead. The number that pays is the gap, and the gap is not in
-this file.
+rows. These are binary contracts: the price moves with the odds.
+A variant calling 91% of windows right is buying near
+85c and handing the difference straight back. One calling
+59% right at 53c is ahead of it.
+The number that pays is the gap, and the gap is not in this file.
 
 Check any row you like: it carries the window's open and close
 price, so Binance settles the argument, not me. The commit history
 does the other half -- rows land the day they happen and are never
-touched again, which is the part a screenshot can never show you.
+touched again. That is the part a scammer's screenshot can never
+show you.
 
   record.csv
   https://t.me/predicbots
 
-Posted daily, wins and losses in the same file.
+Two months of this will be worth reading. One week is not.
