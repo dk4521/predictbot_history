@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T16:37:03.562386+00:00",
-  "total_signals": 521,
+  "generated_at": "2026-08-27T16:48:42.448862+00:00",
+  "total_signals": 527,
   "variants": {
     "K2": {
       "signals": 108,
@@ -27,25 +27,25 @@
       "win_rate": 0.7
     },
     "K10": {
-      "signals": 20,
-      "resolved": 20,
-      "wins": 16,
-      "win_rate": 0.8
+      "signals": 22,
+      "resolved": 21,
+      "wins": 17,
+      "win_rate": 0.8095
     },
     "K11": {
-      "signals": 27,
-      "resolved": 27,
-      "wins": 24,
-      "win_rate": 0.8889
+      "signals": 28,
+      "resolved": 28,
+      "wins": 25,
+      "win_rate": 0.8929
     },
     "K9": {
-      "signals": 94,
+      "signals": 95,
       "resolved": 94,
       "wins": 55,
       "win_rate": 0.5851
     },
     "K4": {
-      "signals": 118,
+      "signals": 119,
       "resolved": 118,
       "wins": 66,
       "win_rate": 0.5593
@@ -63,12 +63,12 @@
       "win_rate": 0.5455
     },
     "K5": {
-      "signals": 30,
+      "signals": 31,
       "resolved": 30,
       "wins": 15,
       "win_rate": 0.5
     }
   },
   "first_window": "2026-08-26T10:00:00+00:00",
-  "last_window": "2026-08-27T16:30:00+00:00"
+  "last_window": "2026-08-27T16:45:00+00:00"
 }
