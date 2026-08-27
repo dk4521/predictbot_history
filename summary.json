@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T17:04:07.377601+00:00",
-  "total_signals": 533,
+  "generated_at": "2026-08-27T17:07:39.113510+00:00",
+  "total_signals": 534,
   "variants": {
     "K2": {
       "signals": 108,
@@ -33,10 +33,10 @@
       "win_rate": 0.8261
     },
     "K11": {
-      "signals": 30,
-      "resolved": 29,
-      "wins": 26,
-      "win_rate": 0.8966
+      "signals": 31,
+      "resolved": 30,
+      "wins": 27,
+      "win_rate": 0.9
     },
     "K9": {
       "signals": 96,
@@ -70,5 +70,5 @@
     }
   },
   "first_window": "2026-08-26T10:00:00+00:00",
-  "last_window": "2026-08-27T17:00:00+00:00"
+  "last_window": "2026-08-27T17:05:00+00:00"
 }
