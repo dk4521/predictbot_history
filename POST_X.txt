@@ -1,5 +1,5 @@
 BTC up/down - day 2
-Today: 217/352 correct (62%)
+Today: 218/353 correct (62%)
 Running: 68/120 (56.7%) on the busiest variant
 
 Every signal logged before its window closed. Losses included.
