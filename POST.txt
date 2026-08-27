@@ -1,36 +1,39 @@
-BTC up/down signal - track record for 2026-08-27 (UTC)
+BTC up/down -- day 2 of the public record (2026-08-27 UTC)
 
-Today: 208/343 correct (61%) across 11 strategy variants.
+531 signals published so far, every one of them written
+down before its window closed. Eleven variants, K1 to K11, each
+scoring every window on its own.
 
-Running totals since 2026-08-26:
+Today: 212 of 347 called correctly (61%).
 
-  variant               signals  correct    rate
-  ----------------------------------------------
-  K11                        28       25   89.3%
-  K10                        21       17   81.0%
-  K6                         10        7   70.0%
-  K2                        108       67   62.0%
-  K9                         94       55   58.5%
-  K3                         24       14   58.3%
-  K1                         31       18   58.1%
-  K4                        118       66   55.9%
-  K8                         11        6   54.5%
-  K7                         48       25   52.1%
-  K5                         30       15   50.0%
+Since 2026-08-26:
 
-A word on reading that table: the top rows are not the best rows.
-These are binary contracts, so what you pay scales with how likely
-the outcome already looks. A variant winning 82% of the time is
-buying at around 85c and losing money; one winning 56% and buying
-at 53c is making it. Win rate on its own tells you nothing here --
-it is the gap between the win rate and the price that pays, and
-the price is not in this file.
+          signals  correct    rate
+  --------------------------------
+  K11          28       25   89.3%
+  K10          21       17   81.0%
+  K6           10        7   70.0%
+  K2          108       67   62.0%
+  K9           96       57   59.4%
+  K3           24       14   58.3%
+  K1           31       18   58.1%
+  K4          120       68   56.7%
+  K8           11        6   54.5%
+  K7           48       25   52.1%
+  K5           30       15   50.0%
 
-Every signal is in the CSV - the losing ones too, and the ones no
-sane person would have paid the asking price for. Each row carries
-the window's open and close price, so you can check any line of it
-against Binance yourself rather than taking my word for it.
+Read that table carefully, because the top rows are not the best
+rows. These are binary contracts: the price moves with the odds,
+so a variant calling 88% of windows right is buying somewhere near
+85c and handing the difference back. One calling 56% right at 53c
+is ahead. The number that pays is the gap, and the gap is not in
+this file.
+
+Check any row you like: it carries the window's open and close
+price, so Binance settles the argument, not me. The commit history
+does the other half -- rows land the day they happen and are never
+touched again, which is the part a screenshot can never show you.
 
   record.csv
 
-Not selling anything. Publishing daily while the sample builds.
+Posted daily, wins and losses in the same file.
