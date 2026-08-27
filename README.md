@@ -13,6 +13,9 @@ whether or not you know how it works.
 
 Nothing is for sale here. This is the sample being built in public.
 
+**Daily posts: [t.me/predicbots](https://t.me/predicbots)** — the same numbers,
+every morning, in words rather than columns.
+
 ## Why you can check this rather than believe it
 
 Every row carries the window's open and close price from Binance. Pick any
@@ -41,6 +44,9 @@ rate and the price — and the price is deliberately not in this file.
 | `POST.txt` | today's summary in plain words |
 | `summary.json` | per-variant totals |
 | `COLUMNS.md` | what each column means |
+
+The file is regenerated and committed once a day. If today's commit is missing,
+today's rows are missing too — the record is not backfilled later.
 
 ## What this is not
 
