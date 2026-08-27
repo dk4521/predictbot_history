@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T17:02:18.410654+00:00",
-  "total_signals": 532,
+  "generated_at": "2026-08-27T17:04:07.377601+00:00",
+  "total_signals": 533,
   "variants": {
     "K2": {
       "signals": 108,
@@ -27,7 +27,7 @@
       "win_rate": 0.7
     },
     "K10": {
-      "signals": 23,
+      "signals": 24,
       "resolved": 23,
       "wins": 19,
       "win_rate": 0.8261

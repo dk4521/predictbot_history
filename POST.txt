@@ -1,6 +1,6 @@
 BTC up/down -- day 2 of the public record (2026-08-27 UTC)
 
-532 signals published so far, every one of them written
+533 signals published so far, every one of them written
 down before its window closed. Eleven variants, K1 to K11, each
 scoring every window on its own.
 
