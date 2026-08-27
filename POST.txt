@@ -1,17 +1,17 @@
 BTC up/down -- day 2 of the public record (2026-08-27 UTC)
 
-531 signals published so far, every one of them written
+532 signals published so far, every one of them written
 down before its window closed. Eleven variants, K1 to K11, each
 scoring every window on its own.
 
-Today: 212 of 347 called correctly (61%).
+Today: 216 of 351 called correctly (62%).
 
 Since 2026-08-26:
 
           signals  correct    rate
   --------------------------------
-  K11          28       25   89.3%
-  K10          21       17   81.0%
+  K11          29       26   89.7%
+  K10          23       19   82.6%
   K6           10        7   70.0%
   K2          108       67   62.0%
   K9           96       57   59.4%
@@ -20,7 +20,7 @@ Since 2026-08-26:
   K4          120       68   56.7%
   K8           11        6   54.5%
   K7           48       25   52.1%
-  K5           30       15   50.0%
+  K5           31       16   51.6%
 
 Read that table carefully, because the top rows are not the best
 rows. These are binary contracts: the price moves with the odds,

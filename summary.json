@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T16:56:35.765814+00:00",
-  "total_signals": 531,
+  "generated_at": "2026-08-27T17:02:18.410654+00:00",
+  "total_signals": 532,
   "variants": {
     "K2": {
       "signals": 108,
@@ -28,15 +28,15 @@
     },
     "K10": {
       "signals": 23,
-      "resolved": 21,
-      "wins": 17,
-      "win_rate": 0.8095
+      "resolved": 23,
+      "wins": 19,
+      "win_rate": 0.8261
     },
     "K11": {
-      "signals": 29,
-      "resolved": 28,
-      "wins": 25,
-      "win_rate": 0.8929
+      "signals": 30,
+      "resolved": 29,
+      "wins": 26,
+      "win_rate": 0.8966
     },
     "K9": {
       "signals": 96,
@@ -64,11 +64,11 @@
     },
     "K5": {
       "signals": 31,
-      "resolved": 30,
-      "wins": 15,
-      "win_rate": 0.5
+      "resolved": 31,
+      "wins": 16,
+      "win_rate": 0.5161
     }
   },
   "first_window": "2026-08-26T10:00:00+00:00",
-  "last_window": "2026-08-27T16:55:00+00:00"
+  "last_window": "2026-08-27T17:00:00+00:00"
 }
