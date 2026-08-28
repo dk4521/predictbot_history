@@ -3,34 +3,34 @@ BTC up/down -- day 3 of the public record (2026-08-28 UTC)
 Eleven strategies, one BTC window at a time, scored in the open.
 No edits, no hindsight, nothing left out.
 
-912 signals published so far, every one of them written
+1334 signals published so far, every one of them written
 down before its window closed. Eleven variants, K1 to K11, each
 scoring every window on its own.
 
-Today: 133 of 263 called correctly (51%).
+Today: 363 of 666 called correctly (55%).
 
 Since 2026-08-26:
 
           signals  correct    rate
   --------------------------------
-  K11          62       56   90.3%
-  K10          53       40   75.5%
-  K6           14        9   64.3%
-  K2          160       94   58.8%
-  K8           47       27   57.5%
-  K3           34       19   55.9%
-  K1           45       25   55.6%
-  K12          11        6   54.5%
-  K9          131       70   53.4%
-  K4          168       87   51.8%
-  K7           71       36   50.7%
-  K5          114       56   49.1%
+  K11         104       91   87.5%
+  K10          90       65   72.2%
+  K6           19       13   68.4%
+  K12          17       10   58.8%
+  K3           48       28   58.3%
+  K1           60       34   56.7%
+  K2          211      119   56.4%
+  K8           86       47   54.6%
+  K9          174       92   52.9%
+  K7           96       50   52.1%
+  K4          222      114   51.3%
+  K5          186       92   49.5%
 
 Read that table carefully, because the top rows are not the best
 rows. These are binary contracts: the price moves with the odds.
-A variant calling 90% of windows right is buying
+A variant calling 88% of windows right is buying
 near 85c and handing the difference straight back. One calling
-53% right at 53c is ahead of it.
+55% right at 53c is ahead of it.
 The number that pays is the gap, and the gap is not in this file.
 
 Check any row you like: it carries the window's open and close
