@@ -1,36 +1,36 @@
-BTC up/down -- day 3 of the public record (2026-08-28 UTC)
+BTC up/down -- day 4 of the public record (2026-08-29 UTC)
 
-Eleven strategies, one BTC window at a time, scored in the open.
-No edits, no hindsight, nothing left out.
+Tired of edited screenshots and "99% accuracy" claims? Here is the
+opposite: every call, in public, before it could be known.
 
-1334 signals published so far, every one of them written
+1711 signals published so far, every one of them written
 down before its window closed. Eleven variants, K1 to K11, each
 scoring every window on its own.
 
-Today: 363 of 666 called correctly (55%).
+Today: 85 of 155 called correctly (55%).
 
 Since 2026-08-26:
 
           signals  correct    rate
   --------------------------------
-  K11         104       91   87.5%
-  K10          90       65   72.2%
-  K6           19       13   68.4%
-  K12          17       10   58.8%
-  K3           48       28   58.3%
-  K1           60       34   56.7%
-  K2          211      119   56.4%
-  K8           86       47   54.6%
-  K9          174       92   52.9%
-  K7           96       50   52.1%
-  K4          222      114   51.3%
-  K5          186       92   49.5%
+  K11         138      121   87.7%
+  K10         113       85   75.2%
+  K6           24       15   62.5%
+  K3           58       33   56.9%
+  K12          29       16   55.2%
+  K2          270      148   54.8%
+  K9          203      111   54.7%
+  K1           74       40   54.0%
+  K8          131       70   53.4%
+  K4          270      140   51.8%
+  K5          276      142   51.4%
+  K7          125       62   49.6%
 
 Read that table carefully, because the top rows are not the best
 rows. These are binary contracts: the price moves with the odds.
 A variant calling 88% of windows right is buying
 near 85c and handing the difference straight back. One calling
-55% right at 53c is ahead of it.
+53% right at 53c is ahead of it.
 The number that pays is the gap, and the gap is not in this file.
 
 Check any row you like: it carries the window's open and close
@@ -42,4 +42,4 @@ show you.
   record.csv
   https://t.me/predicbots
 
-Same time tomorrow.
+Still building the sample. The interesting question is not this week.

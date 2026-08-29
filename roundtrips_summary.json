@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-29T08:16:26.138860+00:00",
+  "total_round_trips": 116,
+  "never_sold": 7,
+  "bots": {
+    "R3": {
+      "trades": 50,
+      "never_sold": 1,
+      "wins": 22,
+      "win_rate": 0.44
+    },
+    "R1": {
+      "trades": 66,
+      "never_sold": 6,
+      "wins": 27,
+      "win_rate": 0.4091
+    }
+  }
+}
