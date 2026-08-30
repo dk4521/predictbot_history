@@ -1,36 +1,41 @@
-BTC up/down -- day 4 of the public record (2026-08-29 UTC)
+BTC up/down -- day 5 of the public record (2026-08-30 UTC)
 
-Tired of edited screenshots and "99% accuracy" claims? Here is the
-opposite: every call, in public, before it could be known.
+No predictions about the predictions. A file, updated daily, that
+anyone can argue with.
 
-1711 signals published so far, every one of them written
+2612 signals published so far, every one of them written
 down before its window closed. Eleven variants, K1 to K11, each
 scoring every window on its own.
 
-Today: 85 of 155 called correctly (55%).
+Today: 274 of 540 called correctly (51%).
 
 Since 2026-08-26:
 
           signals  correct    rate
   --------------------------------
-  K11         138      121   87.7%
-  K10         113       85   75.2%
-  K6           24       15   62.5%
-  K3           58       33   56.9%
-  K12          29       16   55.2%
-  K2          270      148   54.8%
-  K9          203      111   54.7%
-  K1           74       40   54.0%
-  K8          131       70   53.4%
-  K4          270      140   51.8%
-  K5          276      142   51.4%
-  K7          125       62   49.6%
+  K16           4        4  100.0%
+  K11         159      142   89.3%
+  K10         134      105   78.4%
+  K15           6        4   66.7%
+  K6           30       18   60.0%
+  K8          205      117   57.1%
+  K12          51       29   56.9%
+  K3           66       37   56.1%
+  K9          218      122   56.0%
+  K1           93       52   55.9%
+  K2          382      213   55.8%
+  K14         152       84   55.3%
+  K5          437      240   54.9%
+  K4          321      173   53.9%
+  K7          169       88   52.1%
+  ?           181       57   31.5%
+  K13           1        0    0.0%
 
 Read that table carefully, because the top rows are not the best
 rows. These are binary contracts: the price moves with the odds.
-A variant calling 88% of windows right is buying
+A variant calling 100% of windows right is buying
 near 85c and handing the difference straight back. One calling
-53% right at 53c is ahead of it.
+54% right at 53c is ahead of it.
 The number that pays is the gap, and the gap is not in this file.
 
 Check any row you like: it carries the window's open and close
@@ -42,4 +47,4 @@ show you.
   record.csv
   https://t.me/predicbots
 
-Still building the sample. The interesting question is not this week.
+Posted daily, wins and losses in the same file.
