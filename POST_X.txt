@@ -1,6 +1,6 @@
-BTC up/down - day 5
-Today: 274/540 correct (51%)
-Running: 240/437 (54.9%) on the busiest variant
+BTC up/down - day 6
+Today: 455/793 correct (57%)
+Running: 312/563 (55.4%) on the busiest variant
 
 Every signal logged before its window closed. Losses included.
 Check any row against Binance yourself:
