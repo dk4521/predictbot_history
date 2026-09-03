@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-09-01T11:55:40.481785+00:00",
-  "total_signals": 4949,
+  "generated_at": "2026-09-03T16:30:22.410369+00:00",
+  "total_signals": 8164,
   "variants": {
     "K2": {
-      "signals": 575,
-      "resolved": 575,
-      "wins": 319,
-      "win_rate": 0.5548
+      "signals": 806,
+      "resolved": 806,
+      "wins": 434,
+      "win_rate": 0.5385
     },
     "K7": {
-      "signals": 245,
-      "resolved": 245,
-      "wins": 128,
-      "win_rate": 0.5224
+      "signals": 344,
+      "resolved": 344,
+      "wins": 176,
+      "win_rate": 0.5116
     },
     "K14": {
-      "signals": 390,
-      "resolved": 390,
-      "wins": 202,
-      "win_rate": 0.5179
+      "signals": 683,
+      "resolved": 683,
+      "wins": 350,
+      "win_rate": 0.5124
     },
     "K1": {
-      "signals": 146,
-      "resolved": 146,
-      "wins": 84,
-      "win_rate": 0.5753
+      "signals": 236,
+      "resolved": 236,
+      "wins": 129,
+      "win_rate": 0.5466
     },
     "K6": {
-      "signals": 47,
-      "resolved": 47,
-      "wins": 28,
-      "win_rate": 0.5957
+      "signals": 72,
+      "resolved": 72,
+      "wins": 41,
+      "win_rate": 0.5694
     },
     "?": {
-      "signals": 582,
-      "resolved": 582,
-      "wins": 196,
-      "win_rate": 0.3368
+      "signals": 1058,
+      "resolved": 1058,
+      "wins": 358,
+      "win_rate": 0.3384
     },
     "K10": {
-      "signals": 326,
-      "resolved": 326,
-      "wins": 255,
-      "win_rate": 0.7822
+      "signals": 602,
+      "resolved": 602,
+      "wins": 464,
+      "win_rate": 0.7708
     },
     "K11": {
-      "signals": 347,
-      "resolved": 347,
-      "wins": 303,
-      "win_rate": 0.8732
+      "signals": 620,
+      "resolved": 620,
+      "wins": 530,
+      "win_rate": 0.8548
     },
     "K9": {
-      "signals": 398,
-      "resolved": 398,
-      "wins": 232,
-      "win_rate": 0.5829
+      "signals": 661,
+      "resolved": 661,
+      "wins": 372,
+      "win_rate": 0.5628
     },
     "K4": {
-      "signals": 533,
-      "resolved": 533,
-      "wins": 294,
-      "win_rate": 0.5516
+      "signals": 836,
+      "resolved": 836,
+      "wins": 450,
+      "win_rate": 0.5383
     },
     "K3": {
-      "signals": 108,
-      "resolved": 108,
-      "wins": 65,
-      "win_rate": 0.6019
+      "signals": 167,
+      "resolved": 167,
+      "wins": 97,
+      "win_rate": 0.5808
     },
     "K16": {
-      "signals": 27,
-      "resolved": 27,
-      "wins": 21,
-      "win_rate": 0.7778
+      "signals": 94,
+      "resolved": 93,
+      "wins": 50,
+      "win_rate": 0.5376
     },
     "K15": {
-      "signals": 78,
-      "resolved": 78,
-      "wins": 50,
-      "win_rate": 0.641
+      "signals": 214,
+      "resolved": 214,
+      "wins": 118,
+      "win_rate": 0.5514
     },
     "K8": {
-      "signals": 328,
-      "resolved": 327,
-      "wins": 189,
-      "win_rate": 0.578
+      "signals": 504,
+      "resolved": 504,
+      "wins": 281,
+      "win_rate": 0.5575
     },
     "K5": {
-      "signals": 711,
-      "resolved": 710,
-      "wins": 385,
-      "win_rate": 0.5423
+      "signals": 1072,
+      "resolved": 1072,
+      "wins": 568,
+      "win_rate": 0.5299
     },
     "K12": {
-      "signals": 103,
-      "resolved": 103,
-      "wins": 58,
-      "win_rate": 0.5631
+      "signals": 182,
+      "resolved": 182,
+      "wins": 95,
+      "win_rate": 0.522
     },
     "K13": {
-      "signals": 5,
-      "resolved": 5,
-      "wins": 4,
-      "win_rate": 0.8
+      "signals": 13,
+      "resolved": 13,
+      "wins": 8,
+      "win_rate": 0.6154
     }
   },
   "first_window": "2026-08-26T10:00:00+00:00",
-  "last_window": "2026-09-01T11:55:00+00:00"
+  "last_window": "2026-09-03T16:30:00+00:00"
 }
